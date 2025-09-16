@@ -31,7 +31,7 @@ An intelligent web scraping application that uses AI to extract specific informa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/web_scrapping_ai_agent.git
+   git clone https://github.com/NickBot-dev/web_scrapping_ai_agent.git
    cd web_scrapping_ai_agent
    ```
 
